@@ -1,5 +1,6 @@
 CodSoft Python Programming Internship:
 This repository contains three Python projects developed as part of my CodSoft Python Programming Internship.
+
 Projects:
 1. To-Do List
 -A task management application that allows users to add, view, edit, mark as completed, and delete tasks. Task information is saved in a JSON file.
