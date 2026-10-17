@@ -8,14 +8,17 @@ Projects:
 -A simple calculator that performs addition, subtraction, multiplication, and division.
 3. Password Generator
 -A Python program that generates random passwords based on the length entered by the user.
+
 Technologies Used:
 - Python
 - Visual Studio Code
 - Git and GitHub
+
 How to Run:
 Make sure Python is installed, then run each program from the terminal:
 python to_do_list.py
 python calculator.py
 python password_generator.py
-Internship
+
+Internship:
 CodSoft Python Programming Internship
